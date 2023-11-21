@@ -6,7 +6,8 @@ Welcome! To the my new project, that will help you with scripting in Half-Life f
 1. Download latest release
 2. Install **CFG Games Support** extinsion (https://marketplace.visualstudio.com/items?itemName=joelcancela.cfg-games-support)
 3. In Visual Studio Code go to File > Settings > Parameters > Editor: **Quick Suggestions** and set **strings** to **on**
-   ![image](https://github.com/cryingandten/Half-Life-scripted-snippets/assets/51243504/80614706-e620-4482-9532-f0d502e1f732)
+   ![image](https://github.com/cryingandten/Half-Life-scripted-snippets/assets/51243504/6fddeb05-1266-40dd-b636-3317253deacf)
+
 4. Place **valve-cfg.code-snippets** in **C: > Users > username > AppData > Roaming > Code > User > snippets**
 Done!
 
