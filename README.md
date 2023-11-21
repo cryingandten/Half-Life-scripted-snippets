@@ -16,29 +16,49 @@ You must write a special word, then you press **TAB**. And you word will change 
 
 **GENERAL**
 Binding - "b"
+
 Make Alias - "alias"
+
 fps_max - "fps"
+
 Save game - "sv"
+
 force_centerview - "f_c"
+
 
 **ACTION**
 +jump - "+j"
+
 -jump - "-j"
+
 +jump and -jump - "+-j"
 
+
 +duck - "+d"
+
 -duck - "-d"
+
 +duck and -duck - "+-d"
 
+
 +attack - "+a"
+
 -attack - "-a"
+
 +attack and -attack - "+-a"
 
+
 +attack2 - "+a2"
+
 -attack2 - "-a2"
+
 +attack2 and -attack2 - "+-a2"
+
 
 **COMPLICATED MECHANICS**
 Looping Script - "loop"
+
 Script like test chamber script - "table"
+
 Script that works only when holding - "hold"
+
