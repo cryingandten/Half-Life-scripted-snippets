@@ -74,14 +74,14 @@ Reset pitch - "pitch_r"
 
 +use and -use - "+-u"
 
-+left - "l"
++left - "+l"
 
 -left - "-l"
 
 +left and -left - "+-l"
 
 
-+right - "r"
++right - "+r"
 
 -right - "-r"
 
