@@ -15,6 +15,7 @@ You must write a special word, then you press **TAB**. And you word will change 
 # Snippet list
 
 **GENERAL**
+
 Binding - "b"
 
 Make Alias - "alias"
@@ -27,6 +28,7 @@ force_centerview - "f_c"
 
 
 **ACTION**
+
 +jump - "+j"
 
 -jump - "-j"
@@ -56,6 +58,7 @@ force_centerview - "f_c"
 
 
 **COMPLICATED MECHANICS**
+
 Looping Script - "loop"
 
 Script like test chamber script - "table"
