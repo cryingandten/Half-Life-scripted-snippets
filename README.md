@@ -1,6 +1,9 @@
 # Half-Life scripted snippets for Visual Studio Code
 Welcome! To the my new project, that will help you with scripting in Half-Life for speedruns.
 
+# What is this?
+
+Basically it's Intellisense custom snippets, but for valve's cfg files. If you want to make a your own script for Half-Life speedrunning and you don't want to spend time on boring writing? Here is your right choice.
 # Installation
 
 1. Download latest release
