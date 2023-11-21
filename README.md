@@ -18,6 +18,10 @@ Done!
 You must write a special word, then you press **TAB**. And you word will change to command.
 # Snippet list
 
+**Idk**
+
+Hl1 weapon list - "weapons_hl1"
+
 **GENERAL**
 
 Binding - "b"
@@ -30,6 +34,9 @@ Save game - "sv"
 
 force_centerview - "f_c"
 
+Lock pitch - "pitch"
+
+Reset pitch - "pitch_r"
 
 **ACTION**
 
@@ -60,6 +67,25 @@ force_centerview - "f_c"
 
 +attack2 and -attack2 - "+-a2"
 
+
++use - "+u"
+
+-use - "-u"
+
++use and -use - "+-u"
+
++left - "l"
+
+-left - "-l"
+
++left and -left - "+-l"
+
+
++right - "r"
+
+-right - "-r"
+
++right and -right - "+-r"
 
 **COMPLICATED MECHANICS**
 
